@@ -3,7 +3,7 @@
 This repository contains the Official Documentation File (ODF) and supporting materials for our research paper titled:
 
 **"A Hybrid CNN - LSTM Approach for Accident Tweet Classification"**,  
-**Published in:** *International Research Journal of Multidisciplinary Studies (IRJMS)*
+**Submitted in:** *International Research Journal of Multidisciplinary Studies (IRJMS)*
 
 ## 📄 Overview
 
